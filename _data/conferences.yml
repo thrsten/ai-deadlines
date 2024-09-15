@@ -1,15 +1,16 @@
 - title: AISTATS
   year: 2025
-  id: aistats2025
+  id: aistats25
   link: https://aistats.org/aistats2025/index.html
   deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
   place: Phuket, Thailand
-  date: May 3 - May 5, 2025
+  date: May 03-05, 2025
   start: 2025-05-03
   end: 2025-05-05
   hindex: 100
-  sub: ['AI', 'Statistic', 'ML', 'AP']
+  sub: ML
   note: Abstract deadline on October 3, 2024. More info <a href='https://aistats.org/aistats2025/call-for-papers.html'>here</a>
 
 - title: CVPR
