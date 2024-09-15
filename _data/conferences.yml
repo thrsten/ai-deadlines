@@ -714,7 +714,7 @@
   full_name: International Conference on Pattern Recognition and Artificial Intelligence
   link: http://icprai2024.org/
   deadline: '2024-01-05 23:59:59'
-  timezone: UTC+9
+  timezone: Asia/Seoul
   place: Jeju Island, South Korea
   date: Jun 18-21, 2024
   start: 2024-06-18
@@ -849,6 +849,7 @@
   hindex: 38
   note: Submission via ACL Rolling Review, commitment date 2023-12-20
   sub: NLP
+
 
 - title: 3DV
   year: 2024
@@ -1399,7 +1400,7 @@
   full_name: IEEE International Conference on Data Mining (ICDM) 
   link: https://icdm22.cse.usf.edu/
   deadline: '2022-06-10 23:59:00'
-  timezone: PDT
+  timezone: America/New_York
   place: Orlando, Florida, USA
   date: November 30 - December 3, 2022
   start: 2022-11-30
@@ -2573,7 +2574,7 @@
   link: https://www.cloud-conf.net/icdm2023/
   deadline: '2023-07-01 23:59:00'
   abstract_deadline: '2023-07-01 23:59:00'
-  timezone: GMT+8
+  timezone: Asia/Shanghai
   place: Shanghai, China
   date: December 1-4, 2023
   start: 2023-12-01
@@ -2632,7 +2633,7 @@
   full_name: AI World Barcelona - Generative AI Conference # full conference name
   link: https://ai-world-barcelona.com
   deadline: '2023-06-07 23:59:59'
-  timezone: GMT+2
+  timezone: Europe/Madrid
   place: Barcelona, Spain
   date: September, 7-8, 2023
   start: 2023-09-07
@@ -2646,7 +2647,7 @@
   full_name: International Conference on Speech and Computer # full conference name
   link: https://specom2024.ftn.uns.ac.rs
   deadline: '2024-07-01 23:59:59'
-  timezone: GMT+1
+  timezone: Europe/Belgrade
   place: Belgrade, Serbia
   date: November, 25-28, 2024
   start: 2024-11-25
@@ -2697,17 +2698,3 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
-
-- title: 3DV
-  year: 2025
-  id: 3dv25
-  full_name: International Conference on 3D Vision
-  link: https://3dvconf.github.io/2025/
-  deadline: '2024-08-12 23:59:59'
-  timezone: UTC-0
-  place: Singapore
-  date: March, 25-28, 2025
-  start: '2025-03-25'
-  end: '2025-03-28'
-  sub: CV
-  hindex: 47
